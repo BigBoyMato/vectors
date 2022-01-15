@@ -1,2 +1,2 @@
 # vectors
-C++ std::vector<T> implementations
+C++ std::vector implementations
